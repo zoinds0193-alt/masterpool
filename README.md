@@ -1,6 +1,6 @@
 {
   "name": "MasterPool",
   "description": "Nodo de practica y educacion sobre la red Cardano (Pre-prod).",
-  "ticker": "MP",
+  "ticker": "MTPL",
   "homepage": "https://cardano.org"
 }
